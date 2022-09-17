@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merna-alaa
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data science and IOT
 - 🌱 I’m currently learning ML , python.
 - reach me at mernaalaa377@gmail.com
 
