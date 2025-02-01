@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @merna-alaa
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning ML , python.
+- 👀 I’m interested in Software Testing.
 - reach me at mernaalaa377@gmail.com
 
 <!---
